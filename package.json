@@ -1,0 +1,45 @@
+{
+  "name": "formation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "lint-staged",
+    "test": "jest",
+    "lint": "eslint .",
+    "buildJSX": "browserify react/main.jsx -o bundle.js -t [ babelify ] -d",
+    "watchJSX": "watchify react/main.jsx -o bundle.js -t [ babelify ] -d -v",
+    "build": "browserify vanilla/main.js -o bundle.js -t [ babelify ] -d",
+    "watch": "watchify vanilla/main.js -o bundle.js -t [ babelify ] -d -v"
+  },
+  "jest": {
+    "setupFiles": [
+      "./jest.setup.js"
+    ]
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint .",
+      "jest . --findRelatedTests"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^8.0.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "husky": "^0.14.3",
+    "jest": "^22.4.3",
+    "lint-staged": "^7.1.0",
+    "react-test-renderer": "^16.3.2"
+  },
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
