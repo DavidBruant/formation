@@ -2,6 +2,9 @@
 
 exports[`renders correctly 1`] = `
 <li>
-  test
+  <div />
+  <div>
+    Invalid date
+  </div>
 </li>
 `;

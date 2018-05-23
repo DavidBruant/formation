@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
-    "test": "jest",
+    "test": "jest .",
     "lint": "eslint .",
     "buildJSX": "browserify react/main.jsx -o bundle.js -t [ babelify ] -d",
     "watchJSX": "watchify react/main.jsx -o bundle.js -t [ babelify ] -d -v",
@@ -39,6 +39,7 @@
     "react-test-renderer": "^16.3.2"
   },
   "dependencies": {
+    "moment": "^2.22.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   }

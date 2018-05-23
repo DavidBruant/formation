@@ -3,7 +3,7 @@ import React from 'react';
 import Tweet from './Tweet.jsx';
 
 const TweetList = props => {
-  const tweets = props.tweets.map(tweet => (<Tweet tweet={tweet} key={tweet.id}/>));
+  const tweets = props.tweets.map(tweet => (<Tweet text={tweet.text} date={tweet.created_at} key={tweet.id}/>));
 
   return (
     <ul>{tweets}</ul>
