@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
-    "test": "jest .",
+    "test": "jest",
     "lint": "eslint .",
-    "buildJSX": "browserify react/main.jsx -o bundle.js -t [ babelify ] -d",
-    "watchJSX": "watchify react/main.jsx -o bundle.js -t [ babelify ] -d -v",
-    "build": "browserify vanilla/main.js -o bundle.js -t [ babelify ] -d",
-    "watch": "watchify vanilla/main.js -o bundle.js -t [ babelify ] -d -v"
+    "build": "browserify src/vanilla/main.js -o bundle.js -t [ babelify ] -d --extension=jsx",
+    "watch": "watchify src/vanilla/main.js -o bundle.js -t [ babelify ] -d -v --extension=jsx",
+    "build:react": "browserify src/react/main.jsx -o bundle.js -t [ babelify ] -d --extension=jsx",
+    "watch:react": "watchify src/react/main.jsx -o bundle.js -t [ babelify ] -d -v --extension=jsx",
+    "build:redux": "browserify src/redux/main.jsx -o bundle.js -t [ babelify ] -d --extension=jsx",
+    "watch:redux": "watchify src/redux/main.jsx -o bundle.js -t [ babelify ] -d -v --extension=jsx"
   },
   "jest": {
     "setupFiles": [
@@ -20,7 +22,7 @@
   "lint-staged": {
     "*.js": [
       "eslint .",
-      "jest . --findRelatedTests"
+      "jest --findRelatedTests"
     ]
   },
   "keywords": [],

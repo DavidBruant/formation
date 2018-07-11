@@ -1,15 +1,11 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
 import { shallow } from 'enzyme';
 import Filter from './Filter';
 
 it('renders correctly', () => {
-  const tree = renderer
-    .create(<Filter />)
-    .toJSON();
+  const wrapper = shallow(<Filter />);
 
-  expect(tree).toMatchSnapshot();
-
+  expect(wrapper).toMatchSnapshot();
 });
 
 it('should call filter function when clicked', () => {

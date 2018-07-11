@@ -13,7 +13,7 @@ class Root extends React.Component {
     super(props);
 
     this.state = {
-      initialTweets: [],
+      tweets: [],
       isFr: false,
     };
 
@@ -28,22 +28,22 @@ class Root extends React.Component {
 
   componentDidMount() {
     fetchJson('https://rawgit.com/DavidBruant/contenu-formations-web/master/js/data/tweets.json')
-    .then(result => this.setState({ initialTweets: result }))
+    .then(result => this.setState({ tweets: result }))
     .catch(e => console.error(e));
   }
 
   render() {
-    const { isFr, initialTweets } = this.state;
+    const { isFr, tweets } = this.state;
 
-    const tweets = !isFr
-      ? initialTweets
-      : initialTweets.filter(isFrenchTweet);
+    const tweetsToDisplay = !isFr
+      ? tweets
+      : tweets.filter(isFrenchTweet);
 
     const text = isFr ? 'Fr' : 'All';
 
     return (
       <div>
-        <TweetList tweets={tweets} />
+        <TweetList tweets={tweetsToDisplay} />
         <Filter text={text} filter={this.filter} />
       </div>
     );
