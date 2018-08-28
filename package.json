@@ -7,6 +7,7 @@
     "precommit": "lint-staged",
     "test": "jest",
     "lint": "eslint .",
+    "tweets": "node generateTweets.js",
     "build": "browserify src/vanilla/main.js -o bundle.js -t [ babelify ] -d --extension=jsx",
     "watch": "watchify src/vanilla/main.js -o bundle.js -t [ babelify ] -d -v --extension=jsx",
     "build:react": "browserify src/react/main.jsx -o bundle.js -t [ babelify ] -d --extension=jsx",
@@ -36,13 +37,14 @@
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "husky": "^0.14.3",
+    "isomorphic-fetch": "^2.2.1",
     "jest": "^22.4.3",
-    "lint-staged": "^7.1.0",
-    "react-test-renderer": "^16.3.2"
+    "lint-staged": "^7.1.0"
   },
   "dependencies": {
     "moment": "^2.22.1",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "twit": "^2.2.11"
   }
 }

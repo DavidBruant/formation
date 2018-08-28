@@ -1,0 +1,2741 @@
+[
+  {
+    "created_at": "Wed Aug 15 21:26:12 +0000 2018",
+    "id": 1029841713706295300,
+    "id_str": "1029841713706295302",
+    "text": "@_jubobs_ i18n",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "_jubobs_",
+          "name": "jubobs",
+          "id": 1648509781,
+          "id_str": "1648509781",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1029838355259973600,
+    "in_reply_to_status_id_str": "1029838355259973636",
+    "in_reply_to_user_id": 1648509781,
+    "in_reply_to_user_id_str": "1648509781",
+    "in_reply_to_screen_name": "_jubobs_",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Mon Jul 23 12:46:56 +0000 2018",
+    "id": 1021376114651009000,
+    "id_str": "1021376114651009025",
+    "text": "@DavidBruant Vazy tsé on essaie ?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DavidBruant",
+          "name": "David de Bruant de dtc de l'innovation",
+          "id": 217829531,
+          "id_str": "217829531",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1021309599993954300,
+    "in_reply_to_status_id_str": "1021309599993954306",
+    "in_reply_to_user_id": 217829531,
+    "in_reply_to_user_id_str": "217829531",
+    "in_reply_to_screen_name": "DavidBruant",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Wed Jul 18 07:12:43 +0000 2018",
+    "id": 1019480064654790700,
+    "id_str": "1019480064654790656",
+    "text": "@DavidBruant Je savais pas qu'ils recrutaient de cette manière sur les start up d'état https://t.co/iX7k3oCQ7r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DavidBruant",
+          "name": "David de Bruant de dtc de l'innovation",
+          "id": 217829531,
+          "id_str": "217829531",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iX7k3oCQ7r",
+          "expanded_url": "https://twitter.com/BetaGouv/status/1019215698780938240",
+          "display_url": "twitter.com/BetaGouv/statu…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 217829531,
+    "in_reply_to_user_id_str": "217829531",
+    "in_reply_to_screen_name": "DavidBruant",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1019215698780938200,
+    "quoted_status_id_str": "1019215698780938240",
+    "quoted_status": {
+      "created_at": "Tue Jul 17 13:42:13 +0000 2018",
+      "id": 1019215698780938200,
+      "id_str": "1019215698780938240",
+      "text": "On cherche vraiment un.e diva React pour le Pass Culture, l'app mobile qui offre 500€ de pouvoir d'achat culturel a… https://t.co/ZuRoZaZeKA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZuRoZaZeKA",
+            "expanded_url": "https://twitter.com/i/web/status/1019215698780938240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 715451644683673600,
+        "id_str": "715451644683673601",
+        "name": "beta.gouv.fr",
+        "screen_name": "BetaGouv",
+        "location": "France",
+        "description": "Nous créons des services publics numériques. #StartupsdEtat @_DINSIC",
+        "url": "https://t.co/uNjuUXWpDx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/uNjuUXWpDx",
+                "expanded_url": "https://beta.gouv.fr",
+                "display_url": "beta.gouv.fr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3496,
+        "friends_count": 39,
+        "listed_count": 87,
+        "created_at": "Thu Mar 31 08:12:19 +0000 2016",
+        "favourites_count": 273,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 353,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "042075",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715452145353551872/N-eW4fI__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715452145353551872/N-eW4fI__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/715451644683673601/1459417483",
+        "profile_link_color": "D92820",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Thu Jul 05 20:36:03 +0000 2018",
+    "id": 1014971190119628800,
+    "id_str": "1014971190119628800",
+    "text": "@DavidBruant https://t.co/XResVIRRP2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DavidBruant",
+          "name": "David de Bruant de dtc de l'innovation",
+          "id": 217829531,
+          "id_str": "217829531",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XResVIRRP2",
+          "expanded_url": "https://www.youtube.com/watch?v=x3L6GcGuI5I",
+          "display_url": "youtube.com/watch?v=x3L6Gc…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 217829531,
+    "in_reply_to_user_id_str": "217829531",
+    "in_reply_to_screen_name": "DavidBruant",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Fri Jun 29 08:53:48 +0000 2018",
+    "id": 1012620133741801500,
+    "id_str": "1012620133741801472",
+    "text": "RT @JulienMoya: Excusez-moi, c'est encore moi, au sujet des auteurs. Oui je sais, désolé. Je vais faire court. Je reviens un instant sur ce…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JulienMoya",
+          "name": "Julien Moya",
+          "id": 293468790,
+          "id_str": "293468790",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 29 08:06:59 +0000 2018",
+      "id": 1012608353594478600,
+      "id_str": "1012608353594478592",
+      "text": "Excusez-moi, c'est encore moi, au sujet des auteurs. Oui je sais, désolé. Je vais faire court. Je reviens un instan… https://t.co/s7Jw5KFnUX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s7Jw5KFnUX",
+            "expanded_url": "https://twitter.com/i/web/status/1012608353594478592",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 293468790,
+        "id_str": "293468790",
+        "name": "Julien Moya",
+        "screen_name": "JulienMoya",
+        "location": "",
+        "description": "DA & Digital designer freelance : UI, websites et applis, jeux vidéo.\nAuteur de https://t.co/7wVPk4Pvsv et https://t.co/etxMSRyP3d.",
+        "url": "http://t.co/NbBbBVHCkR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NbBbBVHCkR",
+                "expanded_url": "http://www.julienmoya.com",
+                "display_url": "julienmoya.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/7wVPk4Pvsv",
+                "expanded_url": "http://www.profession-graphiste-independant.com",
+                "display_url": "profession-graphiste-independant.com",
+                "indices": [
+                  80,
+                  103
+                ]
+              },
+              {
+                "url": "https://t.co/etxMSRyP3d",
+                "expanded_url": "http://www.creatif-freelance.com",
+                "display_url": "creatif-freelance.com",
+                "indices": [
+                  107,
+                  130
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4431,
+        "friends_count": 49,
+        "listed_count": 197,
+        "created_at": "Thu May 05 12:06:03 +0000 2011",
+        "favourites_count": 27,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37904,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459258210495393792/ol9mVtE__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459258210495393792/ol9mVtE__normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/293468790/1418745700",
+        "profile_link_color": "2990BC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "141414",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1012591249034039300,
+      "quoted_status_id_str": "1012591249034039296",
+      "quoted_status": {
+        "created_at": "Fri Jun 29 06:59:01 +0000 2018",
+        "id": 1012591249034039300,
+        "id_str": "1012591249034039296",
+        "text": "Bon là je crois qu'il est temps de dire qu'une BD de 150 pages, chez Actes Sud, c'est payé 3000 euros (en avances s… https://t.co/x9G5xwKO7b",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/x9G5xwKO7b",
+              "expanded_url": "https://twitter.com/i/web/status/1012591249034039296",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 209482312,
+          "id_str": "209482312",
+          "name": "Loïc Sécheresse",
+          "screen_name": "loicsecheresse",
+          "location": "Nantes, FR / Naoned, Brittany",
+          "description": "I draw as I dance.",
+          "url": "https://t.co/3TiwW77aAr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/3TiwW77aAr",
+                  "expanded_url": "http://loicsecheresse.com/",
+                  "display_url": "loicsecheresse.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 5198,
+          "friends_count": 228,
+          "listed_count": 130,
+          "created_at": "Fri Oct 29 08:27:48 +0000 2010",
+          "favourites_count": 536,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 18808,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F7D7F1",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/971337723201105920/8uCt1CiB_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/971337723201105920/8uCt1CiB_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/209482312/1520419885",
+          "profile_link_color": "D100D1",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1012572364041748500,
+        "quoted_status_id_str": "1012572364041748480",
+        "retweet_count": 1326,
+        "favorite_count": 1533,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "retweet_count": 366,
+      "favorite_count": 238,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1012591249034039300,
+    "quoted_status_id_str": "1012591249034039296",
+    "retweet_count": 366,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue May 29 08:42:22 +0000 2018",
+    "id": 1001383236008906800,
+    "id_str": "1001383236008906752",
+    "text": "After circa 2 weeks of trying out @brave as my default browser.\nI'm seriously considering money contributions. https://t.co/GBEOq4HNpl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "brave",
+          "name": "Brave Software",
+          "id": 257245904,
+          "id_str": "257245904",
+          "indices": [
+            34,
+            40
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1001382469550198800,
+          "id_str": "1001382469550198784",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/DeWgDO3X0AAUG7A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DeWgDO3X0AAUG7A.jpg",
+          "url": "https://t.co/GBEOq4HNpl",
+          "display_url": "pic.twitter.com/GBEOq4HNpl",
+          "expanded_url": "https://twitter.com/roro_ourson/status/1001383236008906752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 244,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1260,
+              "h": 256,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 138,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1001382469550198800,
+          "id_str": "1001382469550198784",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/DeWgDO3X0AAUG7A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DeWgDO3X0AAUG7A.jpg",
+          "url": "https://t.co/GBEOq4HNpl",
+          "display_url": "pic.twitter.com/GBEOq4HNpl",
+          "expanded_url": "https://twitter.com/roro_ourson/status/1001383236008906752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 244,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1260,
+              "h": 256,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 138,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Apr 03 23:06:58 +0000 2018",
+    "id": 981307097957699600,
+    "id_str": "981307097957699584",
+    "text": "RT @DavidBruant: @roro_ourson RIIIGHT? https://t.co/VjaXpyOcnC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DavidBruant",
+          "name": "David de Bruant de dtc de l'innovation",
+          "id": 217829531,
+          "id_str": "217829531",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "roro_ourson",
+          "name": "Romain l'Ourson",
+          "id": 879891577,
+          "id_str": "879891577",
+          "indices": [
+            17,
+            29
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VjaXpyOcnC",
+          "expanded_url": "https://twitter.com/TheBrometheus/status/980823831383363585",
+          "display_url": "twitter.com/TheBrometheus/…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Apr 03 13:38:14 +0000 2018",
+      "id": 981163970294898700,
+      "id_str": "981163970294898688",
+      "text": "@roro_ourson RIIIGHT? https://t.co/VjaXpyOcnC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "roro_ourson",
+            "name": "Romain l'Ourson",
+            "id": 879891577,
+            "id_str": "879891577",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VjaXpyOcnC",
+            "expanded_url": "https://twitter.com/TheBrometheus/status/980823831383363585",
+            "display_url": "twitter.com/TheBrometheus/…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 879891577,
+      "in_reply_to_user_id_str": "879891577",
+      "in_reply_to_screen_name": "roro_ourson",
+      "user": {
+        "id": 217829531,
+        "id_str": "217829531",
+        "name": "David de Bruant de dtc de l'innovation",
+        "screen_name": "DavidBruant",
+        "location": "Home is wherever I'm with you",
+        "description": "Doing my best to find and make safe spaces #TeamDTC",
+        "url": "https://t.co/MCIhe8ymaO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MCIhe8ymaO",
+                "expanded_url": "https://davidbruant.github.io/writings/",
+                "display_url": "davidbruant.github.io/writings/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1784,
+        "friends_count": 307,
+        "listed_count": 242,
+        "created_at": "Sat Nov 20 17:10:21 +0000 2010",
+        "favourites_count": 3801,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24575,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/927205696327815170/Pc41nZFm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/927205696327815170/Pc41nZFm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217829531/1407097211",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 07 09:15:31 +0000 2018",
+    "id": 961166522600312800,
+    "id_str": "961166522600312832",
+    "text": "@_kLabz_ T'inquiète pas, je m'en suis sorti, c'était un peu débile, comme toujours !",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "_kLabz_",
+          "name": "k",
+          "id": 533041545,
+          "id_str": "533041545",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 960935995796545500,
+    "in_reply_to_status_id_str": "960935995796545537",
+    "in_reply_to_user_id": 533041545,
+    "in_reply_to_user_id_str": "533041545",
+    "in_reply_to_screen_name": "_kLabz_",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Feb 06 16:33:06 +0000 2018",
+    "id": 960914256123301900,
+    "id_str": "960914256123301889",
+    "text": "@_kLabz_ Hey mec ! Ca roule ? Dis, je galère a écrire un extern Haxe pour https://t.co/0SNflExvtd, t'aurais pas des… https://t.co/vfSgZ3bmJ9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "_kLabz_",
+          "name": "k",
+          "id": 533041545,
+          "id_str": "533041545",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0SNflExvtd",
+          "expanded_url": "https://github.com/PaulLeCam/react-leaflet",
+          "display_url": "github.com/PaulLeCam/reac…",
+          "indices": [
+            74,
+            97
+          ]
+        },
+        {
+          "url": "https://t.co/vfSgZ3bmJ9",
+          "expanded_url": "https://twitter.com/i/web/status/960914256123301889",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 533041545,
+    "in_reply_to_user_id_str": "533041545",
+    "in_reply_to_screen_name": "_kLabz_",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Sun Feb 04 20:04:22 +0000 2018",
+    "id": 960242649700732900,
+    "id_str": "960242649700732928",
+    "text": "@emmanuelguiho D'la balle. #korogumatuer",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "korogumatuer",
+          "indices": [
+            27,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "emmanuelguiho",
+          "name": "Emmanuel Guiho",
+          "id": 15083617,
+          "id_str": "15083617",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 959814394904539100,
+    "in_reply_to_status_id_str": "959814394904539136",
+    "in_reply_to_user_id": 15083617,
+    "in_reply_to_user_id_str": "15083617",
+    "in_reply_to_screen_name": "emmanuelguiho",
+    "user": {
+      "id": 879891577,
+      "id_str": "879891577",
+      "name": "Romain l'Ourson",
+      "screen_name": "roro_ourson",
+      "location": "",
+      "description": "Graou !",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 166,
+      "listed_count": 9,
+      "created_at": "Sun Oct 14 11:13:07 +0000 2012",
+      "favourites_count": 63,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 403,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/512276552243892224/G1sP6IkU_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/879891577/1417039033",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Tue Aug 28 17:31:03 +0000 2018",
+    "id": 1034493578247057400,
+    "id_str": "1034493578247057409",
+    "text": "RT @_MJones36: YALL. I NEED this T-shirt in my life!!! https://t.co/TwDczWZym4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "_MJones36",
+          "name": "Martha Jones",
+          "id": 1387844809,
+          "id_str": "1387844809",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1034059007172915200,
+          "id_str": "1034059007172915200",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+          "url": "https://t.co/TwDczWZym4",
+          "display_url": "pic.twitter.com/TwDczWZym4",
+          "expanded_url": "https://twitter.com/_MJones36/status/1034059016371089409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 920,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 504,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 889,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1034059016371089400,
+          "source_status_id_str": "1034059016371089409",
+          "source_user_id": 1387844809,
+          "source_user_id_str": "1387844809"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1034059007172915200,
+          "id_str": "1034059007172915200",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+          "url": "https://t.co/TwDczWZym4",
+          "display_url": "pic.twitter.com/TwDczWZym4",
+          "expanded_url": "https://twitter.com/_MJones36/status/1034059016371089409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 920,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 504,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 889,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1034059016371089400,
+          "source_status_id_str": "1034059016371089409",
+          "source_user_id": 1387844809,
+          "source_user_id_str": "1387844809"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Aug 27 12:44:16 +0000 2018",
+      "id": 1034059016371089400,
+      "id_str": "1034059016371089409",
+      "text": "YALL. I NEED this T-shirt in my life!!! https://t.co/TwDczWZym4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1034059007172915200,
+            "id_str": "1034059007172915200",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+            "url": "https://t.co/TwDczWZym4",
+            "display_url": "pic.twitter.com/TwDczWZym4",
+            "expanded_url": "https://twitter.com/_MJones36/status/1034059016371089409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 504,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 889,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1034059007172915200,
+            "id_str": "1034059007172915200",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dlm3MDdVsAAGKYQ.jpg",
+            "url": "https://t.co/TwDczWZym4",
+            "display_url": "pic.twitter.com/TwDczWZym4",
+            "expanded_url": "https://twitter.com/_MJones36/status/1034059016371089409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 920,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 504,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 889,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1387844809,
+        "id_str": "1387844809",
+        "name": "Martha Jones",
+        "screen_name": "_MJones36",
+        "location": "Washington, DC",
+        "description": "🇸🇱 | Shirley Chisholm & Michelle Obama are my idols. Podcast Junkie. Undercover Chef. | Data Enthusiast // Code Newbie 👩🏾‍💻 #BookedAndBusy",
+        "url": "https://t.co/PZKNzO8I7o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/PZKNzO8I7o",
+                "expanded_url": "https://github.com/MJones36",
+                "display_url": "github.com/MJones36",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 92,
+        "friends_count": 189,
+        "listed_count": 0,
+        "created_at": "Sun Apr 28 20:16:24 +0000 2013",
+        "favourites_count": 390,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 620,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936389959061245952/_V9kTCBe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936389959061245952/_V9kTCBe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 208,
+      "favorite_count": 1345,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 208,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 11:30:05 +0000 2018",
+    "id": 1034040350917189600,
+    "id_str": "1034040350917189632",
+    "text": "@samnewman @OReillyMedia Any way to get early access to the material? 😜",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "samnewman",
+          "name": "Sam Newman",
+          "id": 6108292,
+          "id_str": "6108292",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "OReillyMedia",
+          "name": "O'Reilly Media",
+          "id": 11069462,
+          "id_str": "11069462",
+          "indices": [
+            11,
+            24
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1034033942528176100,
+    "in_reply_to_status_id_str": "1034033942528176128",
+    "in_reply_to_user_id": 6108292,
+    "in_reply_to_user_id_str": "6108292",
+    "in_reply_to_screen_name": "samnewman",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 08:41:36 +0000 2018",
+    "id": 1033997949234307100,
+    "id_str": "1033997949234307072",
+    "text": "RT @warrenbuffet99: Advice for the all the young people:\n1 read and write more\n2 stay healthy and fit\n3 networking is about giving \n4 pract…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "warrenbuffet99",
+          "name": "Warren Buffet",
+          "id": 809466484674023400,
+          "id_str": "809466484674023424",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 25 19:08:08 +0000 2018",
+      "id": 1033430845279719400,
+      "id_str": "1033430845279719424",
+      "text": "Advice for the all the young people:\n1 read and write more\n2 stay healthy and fit\n3 networking is about giving \n4 p… https://t.co/Z7CLVZMLjC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Z7CLVZMLjC",
+            "expanded_url": "https://twitter.com/i/web/status/1033430845279719424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 809466484674023400,
+        "id_str": "809466484674023424",
+        "name": "Warren Buffet",
+        "screen_name": "warrenbuffet99",
+        "location": "United States",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 242797,
+        "friends_count": 0,
+        "listed_count": 404,
+        "created_at": "Thu Dec 15 18:33:43 +0000 2016",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1033429012511580161/k1M8dNZw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033429012511580161/k1M8dNZw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/809466484674023424/1481827732",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 128305,
+      "favorite_count": 297697,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 128305,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 08:23:43 +0000 2018",
+    "id": 1033993447773032400,
+    "id_str": "1033993447773032448",
+    "text": "*within",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033817999667613700,
+    "in_reply_to_status_id_str": "1033817999667613698",
+    "in_reply_to_user_id": 1648509781,
+    "in_reply_to_user_id_str": "1648509781",
+    "in_reply_to_screen_name": "_jubobs_",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 08:21:18 +0000 2018",
+    "id": 1033992840714625000,
+    "id_str": "1033992840714625025",
+    "text": "I'd say #eventsourcing (used within reason) can help alleviating concerns around vendor lock-in: an event log is mo… https://t.co/2gXWGczGTz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "eventsourcing",
+          "indices": [
+            8,
+            22
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2gXWGczGTz",
+          "expanded_url": "https://twitter.com/i/web/status/1033992840714625025",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033816944015810600,
+    "in_reply_to_status_id_str": "1033816944015810560",
+    "in_reply_to_user_id": 1648509781,
+    "in_reply_to_user_id_str": "1648509781",
+    "in_reply_to_screen_name": "_jubobs_",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 08:10:21 +0000 2018",
+    "id": 1033990082993242100,
+    "id_str": "1033990082993242112",
+    "text": "@Merrion So a command's timestamp is used as its unique identifier? What's the resolution on those timestamps? Or d… https://t.co/VwezbXq86n",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Merrion",
+          "name": "Merrion-Duncan Jones",
+          "id": 18951212,
+          "id_str": "18951212",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VwezbXq86n",
+          "expanded_url": "https://twitter.com/i/web/status/1033990082993242112",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033988492739661800,
+    "in_reply_to_status_id_str": "1033988492739661824",
+    "in_reply_to_user_id": 18951212,
+    "in_reply_to_user_id_str": "18951212",
+    "in_reply_to_screen_name": "Merrion",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 08:00:16 +0000 2018",
+    "id": 1033987548509552600,
+    "id_str": "1033987548509552640",
+    "text": "@Merrion How did you implement idempotency, actually? You have to treat \"append the event(s) resulting from handlin… https://t.co/2kmDIU1Vlh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Merrion",
+          "name": "Merrion-Duncan Jones",
+          "id": 18951212,
+          "id_str": "18951212",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2kmDIU1Vlh",
+          "expanded_url": "https://twitter.com/i/web/status/1033987548509552640",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033984870983389200,
+    "in_reply_to_status_id_str": "1033984870983389184",
+    "in_reply_to_user_id": 18951212,
+    "in_reply_to_user_id_str": "18951212",
+    "in_reply_to_screen_name": "Merrion",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 27 07:25:12 +0000 2018",
+    "id": 1033978721445834800,
+    "id_str": "1033978721445834752",
+    "text": "@jeremy_daly @samnewman @OReillyMedia Yes. The course is relatively short (~2 hours), but is pretty much about how… https://t.co/FKkHojcXCe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jeremy_daly",
+          "name": "Jeremy Daly",
+          "id": 25995622,
+          "id_str": "25995622",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "samnewman",
+          "name": "Sam Newman",
+          "id": 6108292,
+          "id_str": "6108292",
+          "indices": [
+            13,
+            23
+          ]
+        },
+        {
+          "screen_name": "OReillyMedia",
+          "name": "O'Reilly Media",
+          "id": 11069462,
+          "id_str": "11069462",
+          "indices": [
+            24,
+            37
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FKkHojcXCe",
+          "expanded_url": "https://twitter.com/i/web/status/1033978721445834752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033873937397149700,
+    "in_reply_to_status_id_str": "1033873937397149697",
+    "in_reply_to_user_id": 25995622,
+    "in_reply_to_user_id_str": "25995622",
+    "in_reply_to_screen_name": "jeremy_daly",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 26 21:02:50 +0000 2018",
+    "id": 1033822097380978700,
+    "id_str": "1033822097380978689",
+    "text": "@Merrion I agree, but can you expand on why idempotent handlers where crucial in your area? I'm curious...",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Merrion",
+          "name": "Merrion-Duncan Jones",
+          "id": 18951212,
+          "id_str": "18951212",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033820202214064100,
+    "in_reply_to_status_id_str": "1033820202214064128",
+    "in_reply_to_user_id": 18951212,
+    "in_reply_to_user_id_str": "18951212",
+    "in_reply_to_screen_name": "Merrion",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 26 20:50:21 +0000 2018",
+    "id": 1033818955713011700,
+    "id_str": "1033818955713011712",
+    "text": "One function per command handler makes sense: that way, only one piece of application code is allowed to write abou… https://t.co/7KhnZVafbT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7KhnZVafbT",
+          "expanded_url": "https://twitter.com/i/web/status/1033818955713011712",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1033817999667613700,
+    "in_reply_to_status_id_str": "1033817999667613698",
+    "in_reply_to_user_id": 1648509781,
+    "in_reply_to_user_id_str": "1648509781",
+    "in_reply_to_screen_name": "_jubobs_",
+    "user": {
+      "id": 1648509781,
+      "id_str": "1648509781",
+      "name": "jubobs",
+      "screen_name": "_jubobs_",
+      "location": "Cork, Ireland",
+      "description": "Funemployed software developer—mostly #golang, these days. Self-diagnosed misophonia sufferer. French. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 190,
+      "friends_count": 186,
+      "listed_count": 5,
+      "created_at": "Mon Aug 05 19:17:59 +0000 2013",
+      "favourites_count": 1762,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 968,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896417993516822530/RdI7ldfG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
