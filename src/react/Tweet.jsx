@@ -4,7 +4,6 @@ import 'moment/locale/fr';
 
 moment.locale('fr');
 
-
 const Tweet = ({ text, date }) => (
   <li>
     <div>{text}</div>

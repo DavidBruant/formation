@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Tweet from './Tweet.jsx';
+import Tweet from './Tweet';
 
 const TweetList = props => {
   const tweets = props.tweets.map(tweet => (<Tweet text={tweet.text} date={tweet.created_at} key={tweet.id}/>));
