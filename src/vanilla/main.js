@@ -4,7 +4,7 @@ import fetchJson from '../fetchJson';
 
 document.addEventListener('DOMContentLoaded', function(){
 
-  fetchJson('https://raw.githubusercontent.com/iOiurson/formation/corrig%C3%A9/tweets.json')
+  fetchJson('https://raw.githubusercontent.com/iOiurson/formation/corrig%C3%A9/data/tweets.json')
   .then(function(tweets){
       let ol = createOl(tweets);
       document.body.append(ol);
