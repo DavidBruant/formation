@@ -7,7 +7,7 @@ import fetchJson from '../../fetchJson';
 
 class Root extends React.Component {
   componentDidMount() {
-    fetchJson('https://raw.githubusercontent.com/iOiurson/formation/corrig%C3%A9/data/tweets.json')
+    fetchJson('https://raw.githubusercontent.com/iOiurson/formation/correction/data/tweets.json')
     .then(this.props.addTweets)
     .catch(e => console.error(e));
   }
