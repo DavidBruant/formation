@@ -295,7 +295,6 @@ console.log(o.b) // 24
 
 Pour tester la valeur `NaN`, utiliser `Number.isNaN()`.
 
-
 ### Strings
 
 * `'Yo'.slice(start, end)`
@@ -438,6 +437,20 @@ arr.forEach(function(element) { // beaucoup mieux !
 ````js
 const arr = [1, 2, 3, 4];
 
+arr.forEach(function(e, i, a) {
+    console.log(e * i);
+});
+
+// 0
+// 2
+// 6
+// 12
+````
+
+* `a.forEach(f)`
+
+````js
+const arr = [1, 2, 3, 4];
 arr.forEach(function(e, i, a) {
     console.log(e * i);
 });
