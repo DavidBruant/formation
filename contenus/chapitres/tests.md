@@ -144,7 +144,6 @@ Attention ! Métrique dangereuse !
 
 
 
-
 # À vos claviers !!!
 
 Isoler la fonction `isFrenchTweet` dans un module, et la tester:
