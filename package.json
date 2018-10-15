@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "precommit": "lint-staged",
     "test": "jest",
     "lint": "eslint .",
     "tweets": "node generateTweets.js",
@@ -26,19 +25,25 @@
       "jest --findRelatedTests"
     ]
   },
+  "huksy": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
-    "babelify": "^8.0.0",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babelify": "^10.0.0",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
-    "husky": "^0.14.3",
+    "husky": "^1.1.2",
     "isomorphic-fetch": "^2.2.1",
-    "jest": "^22.4.3",
+    "jest": "^23.6.0",
     "lint-staged": "^7.1.0"
   },
   "dependencies": {
