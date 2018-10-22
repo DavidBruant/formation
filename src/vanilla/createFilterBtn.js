@@ -1,3 +1,4 @@
+import createOl from './createOl';
 import { isFrenchTweet } from '../utils';
 
 export default function(tweets, element) {

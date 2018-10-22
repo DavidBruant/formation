@@ -16,13 +16,12 @@ document.addEventListener('DOMContentLoaded', function () {
     const allTweets = tweets1.concat(tweets2);
 
     const ol = createOl(allTweets);
-    document.body.append(ol);
-
     const filterBtn = createFilterBtn(allTweets, ol);
-    document.body.append(filterBtn);
-
     const trackingBtn = createTrackingBtn();
+
+    document.body.append(filterBtn);
     document.body.append(trackingBtn);
+    document.body.append(ol);
   })
   .catch(e => console.error(e));
 }, { once: true });

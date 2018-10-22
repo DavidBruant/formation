@@ -18,8 +18,8 @@ export default function(tweet) {
   dateDiv.classList.add('date');
   authorDiv.classList.add('auteur');
 
-  li.append(textDiv);
   li.append(dateDiv);
+  li.append(textDiv);
   li.append(authorDiv);
 
   return li;

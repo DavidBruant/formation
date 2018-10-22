@@ -63,6 +63,9 @@ fairly classic thing to do
     border-collapse: collapse;
 }
 
+ol {
+    margin: 1rem;
+}
 
 li:hover{
     border: 1px grey dashed;
@@ -84,14 +87,14 @@ li.expanded .extra {
     display: block;
 }
 
-li.date {
+li .date {
     font-weight: bold;
 }
 
-li.date {
+li .texte {
     padding-left: 1rem;
 }
 
-li.author {
+li .author {
     font-style: italic;
 }
