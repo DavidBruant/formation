@@ -69,15 +69,29 @@ li:hover{
 
 }
 
-li{
+li {
+    padding: .5rem 0;
     background-color: white;
 }
-li.expanded{
+li.expanded {
     background-color: #AAA;
 }
-li .extra{
+li .extra {
     display: none;
 }
-li.expanded .extra{
+
+li.expanded .extra {
     display: block;
+}
+
+li.date {
+    font-weight: bold;
+}
+
+li.date {
+    padding-left: 1rem;
+}
+
+li.author {
+    font-style: italic;
 }

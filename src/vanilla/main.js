@@ -1,41 +1,28 @@
 import createOl from './createOl';
-import { isFrenchTweet } from '../utils';
+import createTrackingBtn from './createTrackingBtn';
+import createFilterBtn from './createFilterBtn';
+
 import fetchJson from '../fetchJson';
 
-document.addEventListener('DOMContentLoaded', function(){
+document.addEventListener('DOMContentLoaded', function () {
 
-  fetchJson('https://raw.githubusercontent.com/iOiurson/formation/correction/data/tweets.json')
-  .then(function(tweets){
-      let ol = createOl(tweets);
-      document.body.append(ol);
+  const urls = [
+    'https://raw.githubusercontent.com/iOiurson/formation/correction/data/tweets.json',
+    'https://raw.githubusercontent.com/iOiurson/formation/correction/data/tweets2.json'
+  ];
 
+  Promise.all(urls.map(fetchJson))
+  .then(([tweets1, tweets2]) => {
+    const allTweets = tweets1.concat(tweets2);
 
-      const filterButton = document.createElement('button');
-      filterButton.textContent = 'to Fr';
+    const ol = createOl(allTweets);
+    document.body.append(ol);
 
-      document.body.append(filterButton);
+    const filterBtn = createFilterBtn(allTweets, ol);
+    document.body.append(filterBtn);
 
-      let isFr = false;
-
-      filterButton.addEventListener('click', () => {
-        let newOl;
-
-        if (isFr) {
-          newOl = createOl(tweets);
-          filterButton.textContent = 'to All';
-        }
-        else {
-          newOl = createOl(tweets.filter(isFrenchTweet));
-          filterButton.textContent = 'to Fr';
-        }
-
-        ol.replaceWith(newOl);
-        ol = newOl;
-
-        isFr = !isFr;
-      });
+    const trackingBtn = createTrackingBtn();
+    document.body.append(trackingBtn);
   })
-  .catch(function(e) {
-    console.error(e);
-  });
-}, {once: true});
+  .catch(e => console.error(e));
+}, { once: true });

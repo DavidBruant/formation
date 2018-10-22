@@ -89,21 +89,12 @@ div {
   * `table`
   * `table-row`
   * `table-cell`
-<<<<<<< HEAD
 * [`flex`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * `flex-direction`
   * `justify-content`
   * `align-items`
 * [`grid`](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * `none`
-=======
-  * [`flex`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    * `flex-direction`
-    * `justify-content`
-    * `align-items`
-  * [`grid`](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  * `none`
->>>>>>> ajout de html.md et css.md, et contenus mieux structurés
 
 ### [`position`](https://developer.mozilla.org/fr/docs/Web/CSS/position)
 
