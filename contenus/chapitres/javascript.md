@@ -67,7 +67,7 @@ else {
 
 ## Variables
 
-Une variable c'est une **boîte avec une étiquette** qui contient une valeur.
+Une variable c'est une boîte avec une **étiquette** qui contient une **valeur**.
 
 - Toujours déclarer avec `const` ou `let` (IE11+. Anciennement `var`)
 
@@ -81,7 +81,7 @@ b = 4 // Ok
 - `const` et `let` sont "block scoped", `var` est "function scoped"
 
 ````js
-## Function scope
+// Function scope
 
 function() {
     const a = 1;
@@ -99,22 +99,41 @@ console.log(c); // undefined
 ````
 
 ````js
-## Block scope
+// Block scope
 
-if () {
-    const a = 1;
-    let b = 2;
-    var c = 3;
+function yoyo(){
+    if (true) {
+        const a = 1;
+        let b = 2;
+        var c = 3;
 
-    console.log(a); // 1
-    console.log(b); // 2
+        console.log(a); // 1
+        console.log(b); // 2
+        console.log(c); // 3
+    }
+
+    console.log(a); // undefined
+    console.log(b); // undefined
     console.log(c); // 3
 }
-
-console.log(a); // undefined
-console.log(b); // undefined
-console.log(c); // 3
 ````
+
+````js
+switch(action.type){ // ~redux
+    case 'A': {
+        const h = action.h
+    }
+    case 'B': {
+
+    }
+    default: {
+
+    }
+}
+````
+
+
+
 
 ### [Mode strict](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 
@@ -139,13 +158,16 @@ var o = { a: 1, a: 2 } // ERROR
 - [How One Missing `var` Ruined our Launch](http://www.pixelstech.net/article/1320253282-How-One-Missing-%60var%60-Ruined-our-Launch)
 
 ````js
-myFavoriteSinger = 'Ella Fitzgerald';
+let myFavoriteSinger = 'Ella Fitzgerald';
 
 function secretMindReader() {
     myFavoriteSinger = 'Taylor Swift';
 
     console.log(myFavoriteSinger) // 'Taylor Swift'
 }
+
+secretMindReader();
+
 // Hey, do you know what my favorite singer is ?
 console.log(myFavoriteSinger) // 'Taylor Swift'
 
@@ -207,21 +229,21 @@ Il faut définir ces fonctions pour pouvoir s'en servir.
 
 - écrire soi-même ses polyfills
 ````js
-## dans le <head>
+// dans le <head>
 <script>
 function maFonctionDuFutur() {}
 </script>
 
-## dans mes scripts métier
+// dans mes scripts métier
 maFonctionDuFuture() // ok
 ````
 - [polyfill.io](https://cdn.polyfill.io/v2/docs/) fait le travail à notre place [(annonce du service)](http://labs.ft.com/2014/09/polyfills-as-a-service/)
 ````js
-## dans le <head>
+// dans le <head>
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,fetch,Promise"></script>
 
-## dans mes scripts métier
-maFonctionDuFuture() // ok
+// dans mes scripts métier
+fetch() // ok
 ````
 
 
@@ -528,6 +550,6 @@ map.keys() // iterator
 
 # À vos claviers
 
-Ouvrir le fichier `./exercices/exo.html`, et suivre les indications.
+Ouvrir le fichier [`./exercices/début.html`](./exercices/début.html), et suivre les indications.
 
 

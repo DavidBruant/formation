@@ -20,7 +20,7 @@ n.replaceWith(n2)
 ```
 
 
-### Document + HTMLDocument
+### Document
 
 Le document est un noeud spécial.
 
@@ -36,7 +36,6 @@ document.querySelectorAll(selector) // renvoie un iterateur
 
 Tous les éléments sont des noeuds, mais pas l'inverse.
 
-Il existe notamment des `HTMLElement`, des `SVGElement`.
 
 ```js
 e.getAttribute(key);
@@ -50,13 +49,13 @@ e.textContent = 'Blablabla...';
 e.querySelector(selector);
 e.querySelectorAll(selector);
 
-/!\ e.innerHTML = ... // DANGEREUX, à éviter
+// e.innerHTML = ... // /!\ DANGEREUX, à éviter
 e.innerHTML = ''; // pour vider un élément
 
-e.className // ancien, à éviter
-e.classList // moderne, pour accéder aux styles
+// pour modifier les styles, changer les classes
 e.classList.add/remove/contains/toggle
 
+// si le changement est trop dynamique/imprévisible
 e.style.backgroundColor = ... // l'équivalent CSS est background-color
 ```
 
@@ -67,7 +66,7 @@ Tout est un `EventTarget`.
 ```js
 n.addEventListener(type, listener, options);
 n.removeEventListener(type, listener); // attention, comparaison par référence
-n.dispatchEvent(e); // génére un évènement custom
+n.dispatchEvent(e); // propage un évènement custom
 // Exemple
 monElement.addEventListener('click', function(){
     console.log('yo');
@@ -98,7 +97,7 @@ Ils sont uniques par élément.
 ```js
 element.addEventListener('click', function(e){
     e.target // renvoie l'élément qui a généré l'évènement
-    e.timestamp // renvoie la date de l'évènement en ms depuis le chargement de la page
+    e.timeStamp // renvoie la date de l'évènement en ms depuis le chargement de la page
     e.preventDefault() // empêche les comportements par défaut
 })
 ```
@@ -107,4 +106,4 @@ element.addEventListener('click', function(e){
 
 # À vos claviers !!!
 
-Ouvrir le fichier `./src/vanilla/index.html`, et suivre les indications.
+Ouvrir le fichier [`./src/vanilla/index.html`](./src/vanilla/index.html), et suivre les indications.
