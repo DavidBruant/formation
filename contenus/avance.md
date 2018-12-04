@@ -2,8 +2,8 @@
 
 * ## [Javascript](./chapitres/javascript.md)
 * ## [DOM](./chapitres/dom.md)
-* ## [Asynchronicité](./chapitres/asynchrone.md)
 * ## [Modules](./chapitres/modules.md)
+* ## [Asynchronicité](./chapitres/asynchrone.md)
 * ## [NPM](./chapitres/npm.md)
 * ## [Tests](./chapitres/tests.md)
 * ## [WIP] [React](./chapitres/react.md)
