@@ -77,7 +77,7 @@ module.exports = function (a){
 };
 ````
 
-Problème: `require` synchrone
+**Problème** : `require` synchrone
 
 
 ### AMD (Asynchronous Module Definition)
@@ -95,12 +95,12 @@ define(
 );
 ````
 
-Problème: nb d'A/R égal à la profondeur de l'arbre.
+**Problème** : nb d'A/R égal à la profondeur de l'arbre.
 
-Solution: [r.js](https://github.com/requirejs/r.js)
+**Solution** : [r.js](https://github.com/requirejs/r.js)
 
 
-## Modules ES6
+## Aujourd'hui : Modules ES6
 
 Quand on importe un module, on "récupère" ce que ce module exporte.
 Le module "point d'entrée" n'exporte rien. Les modules "feuilles" n'importe rien.
@@ -184,8 +184,8 @@ npm install browserify -g
 # npm install watchify -g
 npm i babelify @babel/core babel-core@7.0.0-bridge.0 @babel/preset-env --save-dev
 
-browserify src/vanilla/main.js -o bundle.js -t [ babelify --presets [ @babel/env ] ] -d
-# watchify src/vanilla/main.js -o bundle.js -t [ babelify --presets [ @babel/env ] ] -d -v
+browserify src/vanilla/main.js -o src/vanilla/bundle.js -t [ babelify --presets [ @babel/env ] ] -d
+# watchify src/vanilla/main.js -o src/vanilla/bundle.js -t [ babelify --presets [ @babel/env ] ] -d -v
 ```
 
 ### Étape 3: changer le HTML
