@@ -80,13 +80,14 @@ Permet d'écrire du code asynchrone comme s'il était synchrone.
 
 # À vos claviers !!!
 
-### 1) Ecrire une fonction `fetchJson` qui a comme paramètre une url et qui retourne une promesses pour des tweets en utilisant `fetch`
+### 1) Ecrire une fonction `fetchJson` qui n'a pas de paramètres qui retourne une promesses pour des tweets en utilisant `fetch`
 
 ### 2) Utiliser cette fonction dans `main.js`
 
-### 3) Changer la fonction getTweets pour qu'elle charge 120 tweets de 2 urls
+### 3) Changer la fonction `fetchJson` pour qu'elle charge 50 tweets de 2 urls
 
 https://raw.githubusercontent.com/iOiurson/formation/correction/data/tweets.json
+
 https://raw.githubusercontent.com/iOiurson/formation/correction/data/tweets2.json
 
 puis combiner les résultats avec `Promise.all()`, et la méthode `.concat()` pour fusionner

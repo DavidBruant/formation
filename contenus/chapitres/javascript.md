@@ -186,18 +186,23 @@ console.log(myFavoriteSinger) // 'Taylor Swift'
 - Appel d'une fonction
 
 ````js
+// Fonction avec "effet de bord"
 function chanterLaMacarena(paroles) {
     console.log(paroles);
     console.log('HEYYYY MACARENA !');
 }
 
+chanterLaMacarena('bliblablou macarena') // retourne undefined
+// Voir dans la console :
+// bliblablou macarena
+// HEYYYY MACARENA !
+````
+
+````js
+// Fonction qui retourne une valeur
 function faireUnPainAuChocolat(pain, chocolat) {
     return pain + chocolat;
 }
-
-chanterLaMacarena('bliblablou macarena') // renvoie undefined
-// bliblablou macarena
-// HEY MACARENA !
 
 const maChocolatine = faireUnPainAuChocolat('pain', 'chocolat');
 
@@ -211,11 +216,12 @@ console.log(maChocolatine) // painchocolat
 
 
 ### Syntaxe
+
 C'est la façon d'écrire le code, comprise (ou pas) par les navigateurs.
 
 En gros, ce sont les **règles de grammaire**.
 
- Pour utiliser la syntaxe du futur, utiliser [Babel](https://babeljs.io/).
+Pour utiliser la syntaxe du futur, utiliser [Babel](https://babeljs.io/).
 
 ### Runtime
 
