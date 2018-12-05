@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+
+  <meta description="">
+  <link rel="stylesheet" type="text/css" href="../style.css">
+
+  <script>
+  "use strict";
+
+  // module getCommits
+  const BASE_URL = 'https://api.github.com/repos/entrepreneur-interet-general/CIS-front/commits'
+
+  function getCommits(page = 1){
+      return fetch(`${BASE_URL}?page=${page}`)
+      .then(r => r.json())
+  }
+
+  // module CommitList
+  function CommitList(commits){
+      const ol = document.createElement('ol')
+
+      for(const {commit: {message}} of commits){
+          const li = document.createElement('li')
+          li.append(message)
+          ol.append(li)
+      }
+
+      return ol;
+  }
+
+  // main
+  const state = {
+      lastPage: 1,
+      commits: [],
+      pendingRequest: undefined
+  };
+
+  function render(){
+      const list = CommitList(state.commits);
+      document.body.innerHTML = '';
+      document.body.append(list);
+  }
+
+
+  document.addEventListener('scroll', e => {
+      if(window.innerHeight + window.scrollY >= document.body.offsetHeight && !state.pendingRequest){
+          console.log('touché le fond')
+
+          state.pendingRequest = getCommits(state.lastPage+1)
+          .then(newCommits => {
+              state.commits = state.commits.concat(newCommits)
+              state.lastPage++;
+              state.pendingRequest = undefined
+              render()
+          })
+          
+      }
+  })
+
+  getCommits()
+  .then(commits => {
+      state.commits = commits
+      render()
+  })
+  
+  </script>
+
+  <title>yo</title>
+</head>
+
+<body>
+  
+</body>
+
+</html>
